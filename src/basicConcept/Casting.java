@@ -26,7 +26,7 @@ public class Casting {
 	int length1=(int)cast.length;
 	System.out.println(length1);
 	
-	
+	System.out.print("ismat\n");
 	
 	
 	
